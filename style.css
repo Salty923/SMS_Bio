@@ -1,0 +1,16 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #efeee7;
+}
+
+header {
+	background-color: #333333;
+}
+
+h1{
+	color: #eee;
+	font-size: 28px;
+	margin: 50px;
+	padding: 50px;
+}
